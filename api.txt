@@ -1,2 +1,3 @@
 Tmdb api : f562845c2beca65e1028ff2e31ccaff1
 Gemini : AIzaSyCIXu3XkADDdgETLiCTVsF6XNR0_c1ZJWM
+Pexels: Hh3GLxzntaqw28xLSIRpw7WZsdkegxwq6uD5MsWc81v8iZJCHRKIoVJU
